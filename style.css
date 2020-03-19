@@ -1,0 +1,90 @@
+body {
+    background: url(/blur-bg-blue-1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+}
+
+.active {
+    background-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgb(255, 255, 255);
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: "Arimo", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    padding-bottom: 4px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 4px;
+    text-align: center;
+    text-decoration: rgb(255, 255, 255);
+    text-decoration-color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    text-shadow: rgba(0, 0, 0, 0.5) 0px 0.8px 1.6px;
+}
+
+.link {
+    background-color: rgba(0, 0, 0, 0);
+border-bottom-color: rgba(0, 0, 0, 0);
+border-bottom-style: solid;
+border-bottom-width: 4px;
+box-sizing: border-box;
+color: rgba(255, 255, 255, 0.5);
+display: block;
+font-family: "Arimo", sans-serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+margin-left: 16px;
+padding-bottom: 4px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 4px;
+text-align: center;
+text-decoration: rgba(255, 255, 255, 0.5);
+text-decoration-color: rgba(255, 255, 255, 0.5);
+text-decoration-line: none;
+text-decoration-style: solid;
+text-decoration-thickness: auto;
+text-shadow: rgba(0, 0, 0, 0.5) 0px 0.8px 1.6px;
+}
+
+
+
+.masthead-brand {
+    position: absolute;
+    left: 100px;
+    color:white;
+}
+
+h1, p {
+    color: rgba(255, 255, 255, 0.8);
+    top: 100px;
+}
+
+.inner-cover {
+    position: absolute;
+    bottom: 300px;
+    right: 360px;
+}
+
+.mastfoot {
+    position: absolute;
+    bottom: 0px;
+    right: 600px;
+}
